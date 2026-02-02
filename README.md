@@ -63,10 +63,6 @@ zdiscord
 ✅ Lifetime updates
 ✅ Support via Discord
 
-
-🖼️ Preview
-[Add your screenshots/video here]
-
 💡 Use Cases
 
 🎖️ Patreon Rewards - Exclusive items for your Patreon supporters
